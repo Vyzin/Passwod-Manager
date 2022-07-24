@@ -1,4 +1,4 @@
-# Passwod-Manager
+# Password-Manager
 A very simple password manager made in Python
 
 Only requirement really is to do pip install pyperclip
