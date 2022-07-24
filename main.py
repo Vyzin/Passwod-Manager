@@ -80,7 +80,7 @@ def find_password():
         except KeyError:
             messagebox.showerror(title=f"Error", message=f"'{website}' Details Does Not Exist")
 
-# ---------------------------- UI SETUP ------------------------------- #
+# ---------------------------- UI ------------------------------- #
 
 window = Tk()
 window.title("Password Manager")
